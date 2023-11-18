@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CryptoApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/app_400</item>
+        <item name="colorPrimaryVariant">@color/app_500</item>
+
+        <!-- fonr family -->
+        <item name="fontFamily">@font/poppinsmedium</item>
+    </style>
+
+    <style name="Theme.CryptoApp" parent="Base.Theme.CryptoApp" />
+    
+    <style name="RoundCorner" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">10dp</item>
+        <item name="color">@color/app_200</item>
+    </style>
+</resources>

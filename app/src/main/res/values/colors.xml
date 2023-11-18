@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="app_100">#f72585</color>
+    <color name="app_200">#b5179e</color>
+    <color name="app_300">#7209b7</color>
+    <color name="app_400">#560bad</color>
+    <color name="app_500">#480ca8</color>
+    <color name="app_600">#3a0ca3</color>
+    <color name="app_700">#3f37c9</color>
+    <color name="app_800">#4361ee</color>
+    <color name="app_900">#4895ef</color>
+    <color name="app_x00">#4cc9f0</color>
+</resources>
