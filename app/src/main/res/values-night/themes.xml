@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CryptoApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/app_400</item>
+        <item name="colorPrimaryVariant">@color/app_500</item>
+
+        <!-- fonr family -->
+        <item name="fontFamily">@font/poppinsmedium</item>
+    </style>
+</resources>
